@@ -1,0 +1,30 @@
+
+     [
+        {
+            "imagename": "java",
+            "imageurl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+            "Price":100
+        },
+        {
+            "imagename": "c++",
+            "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png",
+            "Price":1000
+
+        },
+        {
+            "imagename": "python",
+            "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+            "Price":100
+        },
+        {
+            "imagename": "node",
+            "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png",
+            "Price":200
+        },
+        {
+            "imagename": "django",
+            "imageurl": "https://1000logos.net/wp-content/uploads/2020/08/Django-Logo-640x400.png",
+            "Price":   300
+        }
+ 
+    ]
