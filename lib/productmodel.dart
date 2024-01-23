@@ -129,10 +129,10 @@ class ProductDetailsPage extends StatelessWidget {
     // print("price${price}");
     int? p = (model!.price)! * 100;
     var options = {
-      'key': 'rzp_test_q8aqi03ndE5uPF',
+      'key': '',
       'amount': p,
       'name': '${model!.imagename}',
-      'prefill': {'contact': '8799302070', 'email': 'dhairyagohil8@gmail.com'}
+      'prefill': {'contact': '', 'email': ''}
     };
     Razorpay razorpay = new Razorpay();
     razorpay.open(options);
