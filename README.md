@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-in this project you can purchase course using razorpay payment gatway in this project i had used local json file to create courses 
+### In this project you can purchase course using razorpay payment gatway in this project i had used local json file to create courses 
 
 A few resources to get you started if this is your first Flutter project:
 
